@@ -2,7 +2,9 @@ import React from 'react'
 
 function Gallery() {
   return (
-    <div>App</div>
+    <div>
+      <h1>Made some changes with gallery</h1>
+    </div>
   )
 }
 
